@@ -1,5 +1,8 @@
 # BlackJack for the JS cours
 
+
+Play here: https://blackjack-alana.netlify.app/
+
 ## Règles du jeu
 ### Le jeu qui vous est demandé de développer s’inspire du 21, en plus simple et sans argent. Au début de chaque partie, on demande à l’utilisateur combien de joueurs seront de la partie (champ number obligatoire). Une fois le chiffre saisi, on instancie ce nombre de joueurs. À tour de rôle, chaque joueur peut demander de recevoir une carte ou arrêter de jouer. Le ou les joueur(s) qui atteindra le plus près la valeur de 21 - sans dépasser - par l’addition de ses cartes gagnera la partie.
 
